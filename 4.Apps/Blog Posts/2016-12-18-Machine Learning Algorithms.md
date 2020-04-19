@@ -2,6 +2,13 @@ Machine Learning Algorithms - A Brief Overview. Series on Vol.2 of my planning b
 
 ## 1. Machine Learning Algorithms
 
+<div class="text-center">
+  <figure>
+    <img src="4.Apps/Blog Posts/images/machine_learning_algorithms/machine_learning_algorithms.png" class="img-fluid" alt="Machine Learning Algorithms">
+    <figcaption>Figure 1 - Machine Learning Algorithms Overview. <a href="https://blogs.oracle.com/datascience/types-of-machine-learning-and-top-10-algorithms-everyone-should-know-v2">Image Source</a></figcaption>
+  </figure> 
+</div>
+
 ### Deep Learning: Convolutional Neural Networks (CNN)
 
 #### Convolution Layers
